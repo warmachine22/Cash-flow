@@ -1,0 +1,5 @@
+{
+  "name": "Cashflow Journal",
+  "description": "A client-side cash flow management application that helps you track your income and expenses. All data is stored locally on your device, with options for backup and restore.",
+  "requestFramePermissions": []
+}
